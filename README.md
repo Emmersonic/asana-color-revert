@@ -4,7 +4,7 @@ Revert Asana.com to previous vibrant colour pallet via custom CSS.
 
 ## Installation
 
-Using the app/extension of your choice, copy and paste the contents of [`style.css`](https://github.com/Emmersonic/asana-color-revert/blob/main/style.css) into a code editor within your extension.
+Using the app/extension of your choice, copy and paste the contents of [`style.css`](https://github.com/Emmersonic/asana-color-revert/blob/main/style.css) into a [code editor](https://stylebot.dev/help/#code) within your extension.
 
 ### Chrome/Firefox
 Use a browser extention like [Stylebot](https://stylebot.dev)
